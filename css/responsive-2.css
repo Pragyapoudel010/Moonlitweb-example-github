@@ -1,0 +1,192 @@
+ 
+
+
+@media only screen and (min-width:1863px ) and (max-width:1919px) and (orientation:portrait)  {
+	body {overflow-x: hidden;
+	}
+
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+    
+ .background-of-menu {
+ 	width: 49%!important;
+ 	 
+ }
+
+ .hello {
+ 		padding-left: 103%!important;
+ 		margin-top: -8rem
+ 	}
+
+ 	.carousel {
+ 	width: 90%; 
+ 	margin-left: 9%
+ }
+ 
+ .projects-responsive {
+ 	width:89%;
+ 	 
+ }
+ .projects-1 {
+ 	margin-left: 9%
+ }
+ .background-positioning {
+ 	width: 32%
+ }
+
+ .odd-pics {
+ 	margin-left: 9.5%
+ }
+
+
+ .projects-10 .background-positioning {
+ 	margin-left: 13.8rem!important
+ }
+
+ .Solutions{
+
+    width: 84.5%!important;
+ }
+
+ .footer{
+ 	width: 68%!important;
+ 	margin-left: 22%!important
+ }
+
+}
+
+
+@media only screen and (min-width:1920px ) and (max-width:2000px)  and (orientation:portrait)   {
+	body {
+		overflow-x: hidden;
+	}
+  .navigation-padding { 
+ 	    margin-left: 483%!important
+ 	}
+  .background-of-menu {
+ 		width: 45%!important;
+ 	}
+
+ .carousel {
+ 	width: 69%;
+    margin-left: 16%;
+ }
+
+ .projects-1 {
+ 	margin-left: 16%!important
+ }
+
+ .end-position {
+ 	margin-left: 2.4%!important
+ }
+
+  
+
+ .background-positioning {
+ 	width: 30%
+ }
+ .projects-responsive   {
+ 	width: 69%;
+
+ }
+ 
+ .pic-trove {
+ 	height: 100%
+ }
+
+ .projects-1 {
+ 	margin-left: 42.5%
+ }
+ .projects-10 {
+ 	margin-left: -18.5%
+ }
+ .Solutions{
+
+    width: 70.5%!important;
+ }
+
+ .hr-line {
+ 	width: 76rem!important
+ }
+
+ .footer{
+ 	width: 76%!important;
+ 	margin-left: 22.5%!important
+ }
+
+  
+ .odd-pics img{
+ 	width: 70%!important;
+ 	margin-left: 54.5%!important
+ }
+
+}
+@media only screen and (min-width:2000px ) and (max-width:  2290px)  and (orientation:portrait)  {
+	body {
+		overflow-x: hidden;
+	}
+  .navigation-padding { 
+ 	    margin-left: 490%!important
+ 	}
+  .background-of-menu {
+ 		width: 45%!important;
+ 	}
+
+ .carousel {
+ 	width: 59%!important;
+    margin-left: 20%!important;
+ }
+
+ .projects-1 {
+ 	margin-left: 19.8%!important
+ }
+
+ .projects-10 img {
+ 	margin-left: 50%!important
+ }
+
+ .end-position {
+ 	margin-left:0.2%!important
+ }
+
+ .background-positioning {
+ 	width: 27%
+ }
+ .projects-responsive   {
+ 	width: 58.5%;
+
+ }
+.projects-responsive img  {
+ 	width: 80%;
+
+ }
+ .trove-div {
+ 	height: 520px!important
+ }
+
+ .Solutions{
+
+    width: 70.5%!important;
+ }
+
+ .hr-line {
+ 	width: 76rem!important
+ }
+
+ .footer{
+ 	width: 66%!important;
+ 	margin-left: 23.5%!important
+ }
+
+  
+ .odd-pics img{
+ 	width: 59.3%!important;
+ 	margin-left: 60.5%!important
+ }
+
+}
+
